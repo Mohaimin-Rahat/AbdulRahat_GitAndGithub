@@ -16,4 +16,6 @@ Git has a staging area where you can selectively choose which changes to include
 
 Git maintains a detailed commit history with author information, timestamps, and commit messages, making it easy to understand why and when changes were made.
 
+Changes made by Shimul Mahmud
+
 
