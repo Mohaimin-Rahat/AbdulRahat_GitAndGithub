@@ -7,3 +7,18 @@ Collaboration: GitHub provides tools for collaboration, such as issues, pull req
 Social Features: GitHub has a social aspect, with features like following other developers, forking repositories (creating your own copy of someone else's code), and starring repositories you find interesting.
 
 Continuous Integration: GitHub offers built-in continuous integration and continuous deployment (CI/CD) capabilities through GitHub Actions, making it easier to automate software testing and deployment processes.
+
+New Feature added for the new branch:
+
+GitHub hosts Git repositories in the cloud, making it easy to store and access your code from anywhere with an internet connection.
+
+Developers can fork (create their own copy of) repositories, allowing them to make changes and propose those changes back to the original repository via pull requests.
+
+Pull requests are a way to propose changes to a repository. They provide a platform for discussion and review before changes are merged into the main codebase.
+
+GitHub's issue tracker lets you report and track bugs, feature requests, and other tasks associated with a project.
+
+GitHub provides security features such as vulnerability scanning and dependency management to help ensure the security of your code.
+
+You can use GitHub's project boards and automation to manage and organize tasks, issues, and code changes within a project.
+

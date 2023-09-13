@@ -7,3 +7,13 @@ Branching: Git enables developers to create branches, which are separate lines o
 Merging: Git allows you to merge changes from one branch into another when you're ready to integrate new features or fixes.
 
 Local and Remote Repositories: You can work with Git repositories locally on your computer and push or pull changes to and from remote repositories, facilitating collaboration.
+
+New Feature added for the new branch:
+
+Git is a distributed version control system, which means that multiple developers can have their own copies (clones) of a repository and work independently.
+
+Git has a staging area where you can selectively choose which changes to include in your next commit, providing fine-grained control over what gets saved.
+
+Git maintains a detailed commit history with author information, timestamps, and commit messages, making it easy to understand why and when changes were made.
+
+
